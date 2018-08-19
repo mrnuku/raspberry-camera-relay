@@ -1,0 +1,28 @@
+{
+  "name": "raspberry-camera-relay",
+  "version": "1.0.0",
+  "description": "Simple camera image relay service for the raspicam written in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnuku/raspberry-camera-relay.git"
+  },
+  "keywords": [
+    "rpi",
+    "raspberry",
+    "camera",
+    "stream",
+    "still",
+    "relay",
+    "node.js"
+  ],
+  "author": "mrnuku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnuku/raspberry-camera-relay/issues"
+  },
+  "homepage": "https://github.com/mrnuku/raspberry-camera-relay#readme"
+}
